@@ -97,7 +97,7 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
 
 
 
-# Upcoming Seminar
+# Upcoming Seminars
 
 {{ highlights(section_name = "seminars") }}
 
