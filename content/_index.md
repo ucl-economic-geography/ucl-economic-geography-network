@@ -78,7 +78,7 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
 
 {{ grid(
     text = [
-        ["Dr Jessica Ferm"],
+        ["Prof Jessica Ferm"],
         ["Prof Max Nathan"],
         ["Dr Hannah Schling"],
         ["Fabio Miccoli"],
