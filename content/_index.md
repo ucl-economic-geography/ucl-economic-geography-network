@@ -87,7 +87,7 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
         "https://profiles.ucl.ac.uk/27402-jessica-ferm",
         "https://profiles.ucl.ac.uk/71224-max-nathan",
         "https://profiles.ucl.ac.uk/94680-hannah-schling",
-        "https://www.linkedin.com/in/fabio-miccoli-8409b9a7/?originalSubdomain=uk",
+        "https://profiles.ucl.ac.uk/100926-fabio-miccoli",
     ],   
     images = [
           "JFPicture.jpeg",
