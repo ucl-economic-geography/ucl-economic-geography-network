@@ -1,6 +1,6 @@
 +++
 title = "Land Rents in a Sustainable Housing System"
-date = "2026-10-22" [extra]
+[extra]
 author = "Dr Stefan Horn"
 institution = "UCL Institute for Innovation and Public Purpose"
 author_url = "[https://aterenin.github.io/academic-workshop](https://profiles.ucl.ac.uk/85791-stefan-horn)"
