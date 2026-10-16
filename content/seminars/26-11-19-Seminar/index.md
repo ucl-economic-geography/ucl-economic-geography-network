@@ -5,7 +5,6 @@ author = "Dr Konstantinos Melachroinos"
 institution = "Queen Mary University of London"
 author_url = "[https://aterenin.github.io/academic-workshop](https://www.qmul.ac.uk/geog/staff/academicstaff/profiles/melachroinosk.html)"
 highlight = true
-date = "2026-11-19"
 time = "17:00 UTC"
 +++
 
