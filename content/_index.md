@@ -49,18 +49,24 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
         ["Dr Siddharth Menon","London School of Economics (LSE)"],
         ["Dr Zahratu Shabrina","King's College London (KCL)"],
         ["Dr Carolin Hulke","London School of Economics (LSE)"],
+        ["Dr Handuo Deng", "University College London (UCL)"],
+        ["Mr Matthew Whearty", "University College London (UCL)"],
     ],
     urls = [
         "https://pure.royalholloway.ac.uk/en/persons/laurie-parsons/",
         "https://www.lse.ac.uk/people/siddharth-menon",
         "https://www.kcl.ac.uk/people/zahratu-shabrina",
         "https://www.lse.ac.uk/people/carolin-hulke",
+        "https://profiles.ucl.ac.uk/90195-handuo-deng",
+        "https://profiles.ucl.ac.uk/101813-matthew-whearty",
     ],
     images = [
         "LP_Headshot_2020.webp",
         "siddharth-menon-200x2001.x3e2fa126.jpg.webp",
         "zara-shabrina-profile.x91e7eb48.jpg.webp",
         "carolin-hulke-1-cropped-200x200.xedec958e.jpg.webp",
+        "HDPicture.webp",
+        "MWPicture.webp",
     ],
     narrow = true) }}
 
