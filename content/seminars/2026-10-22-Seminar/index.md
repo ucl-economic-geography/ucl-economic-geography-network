@@ -1,5 +1,6 @@
 +++
 title = "Land Rents in a Sustainable Housing System"
+date = 2026-10-22
 [extra]
 author = "Dr Stefan Horn"
 institution = "UCL Institute for Innovation and Public Purpose"
