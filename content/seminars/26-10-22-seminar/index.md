@@ -5,6 +5,7 @@ author = "Dr Stefan Horn"
 institution = "UCL Institute for Innovation and Public Purpose"
 author_url = "[https://aterenin.github.io/academic-workshop](https://profiles.ucl.ac.uk/85791-stefan-horn)"
 highlight = true
+date = "2026-10-22"
 time = "13:00 UTC"
 +++
 
