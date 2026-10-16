@@ -1,5 +1,6 @@
 +++
 title = "Specialisation and labour productivity performance in British regions 2015-2023"
+date = 2026-11-19
 [extra]
 author = "Dr Konstantinos Melachroinos"
 institution = "Queen Mary University of London"
