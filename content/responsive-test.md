@@ -6,7 +6,7 @@ title = "Responsive Test"
 
 {{ grid(
     text = [
-        ["melachroinos.jpg.webp"],
+        ["Placeholder"],
     ]
 ) }}
 {{ new_block() }}
