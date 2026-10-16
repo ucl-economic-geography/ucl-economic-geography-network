@@ -24,16 +24,16 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
 
 {{ grid(
     text = [ 
+        ["Dr Stefan Horn","UCL Institute for Innovation and Public Purpose"],
         ["Dr Konstantinos Melachroinos","Queen Mary University of London (QMUL)"],
-        ["TBC","University College London (UCL)"],
     ],
     urls = [
+        "https://profiles.ucl.ac.uk/85791-stefan-horn",
         "https://www.qmul.ac.uk/geog/staff/academicstaff/profiles/melachroinosk.html",
-        "",
     ],
     images = [
+        "SHPicture.jpeg",
         "melachroinos.jpg.webp",
-        "placeholder.svg",
     ],
     narrow = true) }}
 
