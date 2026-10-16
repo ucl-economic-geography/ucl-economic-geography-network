@@ -3,9 +3,10 @@ title = "Land Rents in a Sustainable Housing System"
 [extra]
 author = "Dr Stefan Horn"
 institution = "UCL Institute for Innovation and Public Purpose"
-author_url = "[https://aterenin.github.io/academic-workshop](https://profiles.ucl.ac.uk/85791-stefan-horn)"
+author_url = "https://profiles.ucl.ac.uk/85791-stefan-horn"
 highlight = true
 time = "13:00 UTC"
+image = "SHPicture.jpeg"
 +++
 
 Seminar abstract: The world is facing a cost-of-living and ecological crisis. Housing is at the centre of both: it is a major source of affordability pressures and a significant contributor to carbon emissions and resource use. Most policy responses focus on increasing housing
