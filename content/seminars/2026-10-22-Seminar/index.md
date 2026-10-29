@@ -5,7 +5,7 @@ date = 2026-10-22
 author = "Dr Stefan Horn"
 institution = "UCL Institute for Innovation and Public Purpose"
 author_url = "https://profiles.ucl.ac.uk/85791-stefan-horn"
-highlight = true
+highlight = false
 time = "13:00 UTC"
 image = "SHPicture.jpeg"
 +++
