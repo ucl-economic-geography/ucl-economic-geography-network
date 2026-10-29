@@ -16,7 +16,7 @@ Established in February 2023, the UCL Economic Geography Network brings together
 
 ### UCL webpage
 
-Further details on our [UCL webpage]([https://github.com/aterenin/academic-workshop](https://www.ucl.ac.uk/bartlett/events/2026/mar/economic-geography-network-seminar-series)) !
+Further details on our [UCL webpage](https://www.ucl.ac.uk/bartlett/events/2026/oct/economic-geography-network-seminar-series)!
 
 {{ new_block() }}
 
