@@ -23,17 +23,17 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
 # List of Speakers
 
 {{ grid(
-    text = [ 
-        ["Dr Stefan Horn","UCL Institute for Innovation and Public Purpose"],
+    text = [
         ["Dr Konstantinos Melachroinos","Queen Mary University of London (QMUL)"],
+        ["Dr Maximilian Günnewig-Mönert","The Bartlett School of Sustainable Construction (UCL)"],
     ],
     urls = [
-        "https://profiles.ucl.ac.uk/85791-stefan-horn",
         "https://www.qmul.ac.uk/geog/staff/academicstaff/profiles/melachroinosk.html",
+        "https://mguennewigmoenert.github.io/index.html",
     ],
     images = [
-        "SHPicture.jpeg",
         "melachroinos.jpg.webp",
+        "max_gm.jpg.webp",
     ],
     narrow = true) }}
 
@@ -51,6 +51,7 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
         ["Dr Carolin Hulke","London School of Economics (LSE)"],
         ["Dr Handuo Deng", "University College London (UCL)"],
         ["Mr Matthew Whearty", "University College London (UCL)"],
+        ["Dr Stefan Horn","UCL Institute for Innovation and Public Purpose"],
     ],
     urls = [
         "https://pure.royalholloway.ac.uk/en/persons/laurie-parsons/",
@@ -59,6 +60,7 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
         "https://www.lse.ac.uk/people/carolin-hulke",
         "https://profiles.ucl.ac.uk/90195-handuo-deng",
         "https://profiles.ucl.ac.uk/101813-matthew-whearty",
+        "https://profiles.ucl.ac.uk/85791-stefan-horn",
     ],
     images = [
         "LP_Headshot_2020.webp",
@@ -67,6 +69,7 @@ Further details on our [UCL webpage]([https://github.com/aterenin/academic-works
         "carolin-hulke-1-cropped-200x200.xedec958e.jpg.webp",
         "HDPicture.webp",
         "MWPicture.webp",
+        "SHPicture.jpeg",
     ],
     narrow = true) }}
 
