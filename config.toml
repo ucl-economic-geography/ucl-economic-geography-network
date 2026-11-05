@@ -13,7 +13,10 @@ smart_punctuation = true
 footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme, which is [designed to last](https://jeffhuang.com/designed_to_last/)."
 title = {tagline = "Presenting the", title = "UCL Economic Geography Network", subtitles = ["Seminar series 2026/27"]}
 banner = {extension = "svg", size = "fixed", fade = true}
-buttons = [{name = "Home", url = "https://ucl-economic-geography.github.io/ucl-economic-geography-network/"}]
+buttons = [
+          {name = "Home", url = "https://ucl-economic-geography.github.io/ucl-economic-geography-network/"},
+          {name = "Video", url = "https://liveuclac-my.sharepoint.com/personal/ucfnmna_ucl_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fucfnmna%5Fucl%5Fac%5Fuk%2FDocuments%2FRecordings%2FUCL%20Economic%20Geography%20Network%2D20261022%5F130613%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3ce0d610%2Deb03%2D4f13%2Dbc4a%2D233d1de11b8c"},
+          ]
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
 header_pages = [{name = "Home", url = "/#home"},{name = "Design", url = "/#design"}]
