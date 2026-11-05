@@ -7,6 +7,7 @@ institution = "UCL Institute for Innovation and Public Purpose"
 author_url = "https://profiles.ucl.ac.uk/85791-stefan-horn"
 highlight = false
 time = "13:00 UTC"
+buttons = [{name = "Video", url = "https://liveuclac-my.sharepoint.com/personal/ucfnmna_ucl_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fucfnmna%5Fucl%5Fac%5Fuk%2FDocuments%2FRecordings%2FUCL%20Economic%20Geography%20Network%2D20261022%5F130613%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3ce0d610%2Deb03%2D4f13%2Dbc4a%2D233d1de11b8c"}]
 image = "SHPicture.jpeg"
 +++
 
