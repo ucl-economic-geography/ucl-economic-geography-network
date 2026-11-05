@@ -84,18 +84,21 @@ Further details on our [UCL webpage](https://www.ucl.ac.uk/bartlett/events/2026/
         ["Prof Jessica Ferm"],
         ["Prof Max Nathan"],
         ["Dr Hannah Schling"],
+        ["Dr Amy Horton"],
         ["Fabio Miccoli"],
     ],
     urls = [
         "https://profiles.ucl.ac.uk/27402-jessica-ferm",
         "https://profiles.ucl.ac.uk/71224-max-nathan",
         "https://profiles.ucl.ac.uk/94680-hannah-schling",
+        "https://profiles.ucl.ac.uk/62066-amy-horton",
         "https://profiles.ucl.ac.uk/100926-fabio-miccoli",
     ],   
     images = [
           "JFPicture.jpeg",
           "MNPicture.jpeg",
           "HSPicture.jpeg",
+          "AHPicture.jpeg",
           "FMPicture.jpeg",
     ],
     narrow = true) }}
