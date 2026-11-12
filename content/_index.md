@@ -32,14 +32,20 @@ Further details on our [UCL webpage](https://www.ucl.ac.uk/bartlett/events/2026/
     text = [
         ["Dr Konstantinos Melachroinos","Queen Mary University of London (QMUL)"],
         ["Dr Maximilian Günnewig-Mönert","The Bartlett School of Sustainable Construction (UCL)"],
+        ["Dr Rachael Squire","Royal Holloway University of London (RHUL)"],
+        ["Dr Rachael Squire","University of Birmingham"],
     ],
     urls = [
         "https://www.qmul.ac.uk/geog/staff/academicstaff/profiles/melachroinosk.html",
         "https://mguennewigmoenert.github.io/index.html",
+        "https://pure.royalholloway.ac.uk/en/persons/rachael-squire/",
+        "https://research.birmingham.ac.uk/en/persons/johanne-bruun/",
     ],
     images = [
         "melachroinos.jpg.webp",
         "max_gm.jpg.webp",
+        "RSPicture.webp",
+        "JBruun.webp",
     ],
     narrow = true) }}
 
