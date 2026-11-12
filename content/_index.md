@@ -14,6 +14,12 @@ Established in February 2023, the UCL Economic Geography Network brings together
 
 {{ new_block() }}
 
+## On our supporters and partners
+
+We would like to thank the Bartlett School of Planning (BSP), the Centre for Advanced Spatial Analysis (CASA), and the UCL Department of Geography for support to expand our activities in 2026/27, as well as the [RGS-IBG Economic Geography Research Group](https://egrg.org/) for their support as partners.
+
+{{ new_block() }}
+
 ### UCL webpage
 
 Further details on our [UCL webpage](https://www.ucl.ac.uk/bartlett/events/2026/oct/economic-geography-network-seminar-series)!
